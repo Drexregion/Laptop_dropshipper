@@ -20,7 +20,7 @@ Welcome to the Amazon Laptop Price Web Scraper! This Python script is designed t
    - Navigate to the directory where the script is located.
    - Run the script using the following command:
      ```
-     python amazon_laptop_scraper.py
+     python getstocks.py
      ```
 
 4. **Input:**
